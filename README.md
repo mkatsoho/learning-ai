@@ -29,12 +29,11 @@ https://cs231n.stanford.edu/
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ
 
 
-## Other recommended materials
+## Other strongly recommended materials
 
-TBD
+Python for machine learning (not cover Neural Network)  
 
-
-
+Chinese book: 李烨 机器学习极简入门 (本书较难买到，可以去国家图书馆借阅) This book gives clear explainations on those used math fomulas. 
 
 ## Other References
 
